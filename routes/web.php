@@ -19,3 +19,7 @@ Route::get('/', function () {
 Route::get('/sss', function () {
     return view('welcome');
 });
+
+Route::get('/ssdds', function () {
+    return view('welcome');
+});
